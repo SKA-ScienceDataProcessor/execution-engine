@@ -1,0 +1,10 @@
+cell_size:	0.4
+pixels_uv:	512
+w_planes:	2
+oversample:	1
+minor_cycles:	1
+loop_gain:	0.2
+input-ra:	180
+input-dec:	-34
+output-ra:	180
+output-dec:	-34
